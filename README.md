@@ -9,8 +9,6 @@ An entire bot with all things you need for a big comunity.
 ### 1. Install the discord package.
 ```bash
   npm install discord.js
-  
-  npm install discord-html-transcripts
 ```
 
 ### 2. For refreshing all the commands.
