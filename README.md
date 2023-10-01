@@ -1,7 +1,7 @@
 
 # Cox Bot
 
-An entire bot with all things you need for a big comunity.
+An entire discord bot framework with all things you need for a big comunity.
 
 
 # Starting it
